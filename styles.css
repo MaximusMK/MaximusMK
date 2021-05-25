@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+button {
+    outline: none;
+}
+button:active {
+    outline: none;
+}
+body {
+    background: #333;
+    font-size: 30px;
+    min-width: 800px;
+}
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+header {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+h4 {
+    font-size: 3em;
+    text-align: center;
+    padding: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ddd;
+    text-shadow: -3px -3px 1px #333;
+}
+.container {
+    background-color: #333;
+    color: #ddd;
+    border-radius: 20px;
+}
+h2 {
+    font-size: 2em;
+    text-align: center;
+    padding: 20px;
+}
+h2 span {
+    font-size: 1.5em;
+    color: #fff;
+}
+.btns {
+    text-align: center;
+}
+button {
+    font-size: 0.8em;
+    background-color: #ddd;
+    color: #333;
+    height: 80px;
+    width: 220px;
+    margin: 0 10px 20px;
+    border-radius: 20px;
+}
